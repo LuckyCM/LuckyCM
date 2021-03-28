@@ -10,7 +10,7 @@
 
 -⚡ Here is my github stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckyCM&theme=merko&show_icons=true)
 
 <!---
 LuckyCM/LuckyCM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
