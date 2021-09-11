@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuckyCM
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning AI in Kings College London
-- 💞️ I’m currently looking for a job of AI
+- 💞️ I’m currently looking for a job of Machine Learning or Data Mining
 - 📫 How to reach me... good question, ahha.
 
 -👨‍🎓 My Status:
